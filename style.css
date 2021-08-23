@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(218, 128, 93);
+}
+.name_of_the_objects,#object_accuracy,#object_name{
+    color:rgb(67, 45, 190);
+}
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 250px;
+}
